@@ -266,3 +266,4 @@ const createBookRow = (book) => {
     let language = '-'
     let pageCount = '-'
     let publisher = '-'
+}
